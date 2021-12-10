@@ -435,7 +435,7 @@ if (input <= 50) {
   let aboveTwoFiftyUnitsBill = aboveTwoFiftyUnits*fourthCateogary;
   let totalBill = firstCateogaryBill + secondCateogaryBill+thirdCateogaryBill+aboveTwoFiftyUnitsBill;
   let additionalSurcharge = (totalBill * 20) / 100;
-  console.log("Your electricity bill is Rs.", totalBill + additionalSurcharge);
+  console.log("Your electricity bill is valuing.", totalBill + additionalSurcharge);
 }
 
 // Deadline: 08/12/2021!
